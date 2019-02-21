@@ -1,10 +1,10 @@
 <application>
   <component name="UISettings">
-    <option name="FONT_FACE" value="Microsoft YaHei UI Light" />
     <option name="FONT_SCALE" value="1.0" />
-    <option name="FONT_SIZE" value="16" />
+    <option name="FONT_SIZE" value="20" />
     <option name="MAX_LOOKUP_WIDTH2" value="885" />
     <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
+    <option name="PIN_FIND_IN_PATH_POPUP" value="true" />
     <option name="PRESENTATION_MODE_FONT_SIZE" value="28" />
     <option name="SHOW_MAIN_TOOLBAR" value="true" />
     <option name="SORT_BOOKMARKS" value="true" />
