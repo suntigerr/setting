@@ -1,8 +1,8 @@
 <application>
   <component name="UISettings">
+    <option name="COLOR_BLINDNESS" value="deuteranopia" />
     <option name="FONT_SCALE" value="1.0" />
     <option name="FONT_SIZE" value="18" />
-    <option name="HIDE_TOOL_STRIPES" value="true" />
     <option name="MAX_LOOKUP_WIDTH2" value="885" />
     <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
     <option name="PIN_FIND_IN_PATH_POPUP" value="true" />
