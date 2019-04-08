@@ -1,16 +1,17 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="gitignore_global.txt" type="Git file" />
       <mapping pattern="info_okhttp" type="PLAIN_TEXT" />
-      <mapping pattern="info_material" type="PLAIN_TEXT" />
-      <mapping pattern="dimen_match" type="PLAIN_TEXT" />
-      <mapping pattern="info_materialdesign" type="PLAIN_TEXT" />
+      <mapping pattern="ui" type="PLAIN_TEXT" />
       <mapping pattern="info" type="PLAIN_TEXT" />
-      <mapping ext="md" type="PLAIN_TEXT" />
+      <mapping pattern="info_materialdesign" type="PLAIN_TEXT" />
+      <mapping pattern="dimen_match" type="PLAIN_TEXT" />
+      <mapping pattern="info_material" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
+      <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="db" type="SQL" />
       <mapping pattern="file_path" type="XML" />
-      <mapping pattern="gitignore_global.txt" type="Git file" />
     </extensionMap>
   </component>
 </application>
